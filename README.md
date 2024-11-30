@@ -7,7 +7,7 @@ activate env
 ``` bash
 conda activate wineq
 ```
-```bash
+
 Create requirements.txt file and Install the Requirements
 ```bash
 pip install -r requirements.txt
